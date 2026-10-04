@@ -7,17 +7,17 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino Nano R4
 
-motors: 
+motors: OHMERON DCGEAR 
 
-h-bridge:
+h-bridge: Adafruit TB6612
 
-sensors:
+sensors:  CNY70
 
 batteries:
 
-wireless communication:
+wireless communication: Node MCU - ESP32 - JoyIT
 
 distance sensor - motors:
 
